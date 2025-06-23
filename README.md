@@ -5,6 +5,7 @@ Data Science Program**. Each notebook demonstrates end-to-end data science
 workflows—from data exploration to predictive modeling and recommendation systems.
 
 **1. FDS_Project**
+
 Topic: Exploratory Data Analysis (EDA)  
 Focus: Understanding consumer behavior patterns in FBS datasets  
 Techniques:
@@ -13,6 +14,7 @@ Techniques:
 - Visual storytelling using `matplotlib` and `seaborn`
 
 **2. Movie_Recommendation_System**
+
 Build a movie recommendation engine using:
 - Collaborative Filtering (user-item matrix)
 - Content-Based Filtering (movie metadata features)
@@ -21,6 +23,7 @@ Build a movie recommendation engine using:
 Libraries used: `pandas`, `scikit-learn`, `Surprise`, `scipy`
 
 **3. Music_Recommendation_System**
+
 Goal: Recommending personalized tracks based on user preferences  
 Highlights:
 - Feature engineering on artist/song metadata
